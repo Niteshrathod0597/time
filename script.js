@@ -1,6 +1,7 @@
 window.onload = function(){
     var seconds = 00;
     var tens = 00;
+    var mins = 00;
     var Outputmins = document.getElementById("mins");
     var OutputSeconds = document.getElementById("second");
     var OutputTens = document.getElementById("tens");
